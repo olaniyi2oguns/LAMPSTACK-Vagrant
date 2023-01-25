@@ -180,7 +180,7 @@ If you get the images below, it means your configuration is working very fine an
 ![output-2](./image/output-2.jpg)
 
 
-Hurray!!! your wordpress website is ready and you can go ahead to make adjust the way you like.
+Hurray!!! your wordpress website is ready and you can go ahead to make adjustment the way you like.
 
 ![output-3](./image/output3.jpg)
 
